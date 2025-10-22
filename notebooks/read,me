@@ -1,0 +1,32 @@
+# 🧬 Protein Function Prediction – CAFA 6 Challenge
+
+**Author:** Tenika Powell  
+**Language:** Python 3.11.9  
+**Frameworks:** TensorFlow · Keras · NumPy · Pandas · Matplotlib  
+
+---
+
+### 🧠 Project Overview
+This project predicts the biological function of proteins based on their amino acid sequences — a task from the **CAFA 6 Kaggle competition**.  
+The model uses a multi-class neural network to classify Gene Ontology (GO) terms across the *Molecular Function (F)*, *Biological Process (P)*, and *Cellular Component (C)* aspects.
+
+---
+
+### ⚙️ Features
+- ✅ Sequence data preprocessing from FASTA files  
+- ✅ Multi-class label encoding with `LabelEncoder`  
+- ✅ Neural network built with TensorFlow / Keras  
+- ✅ Accuracy visualization over epochs  
+- ✅ Model saving (`.h5` file) for reuse or deployment  
+
+---
+
+### 📊 Results
+| Metric | Description |
+|--------|--------------|
+| **Accuracy** | Displays classification performance across GO terms |
+| **Visualization** | Matplotlib chart showing training vs validation accuracy |
+
+---
+
+### 📁 File Structure
