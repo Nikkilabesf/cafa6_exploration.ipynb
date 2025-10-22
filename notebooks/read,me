@@ -28,5 +28,23 @@ The model uses a multi-class neural network to classify Gene Ontology (GO) terms
 | **Visualization** | Matplotlib chart showing training vs validation accuracy |
 
 ---
+protein-function-prediction/
+│
+├── data/
+│ └── Train/
+│ ├── train_sequences.fasta
+│ └── train_terms.tsv
+│
+├── protein_function_prediction.ipynb
+├── protein_function_model.h5
+└── README.md
 
+
+---
+
+### 🚀 How to Run
+```bash
+cd protein-function-prediction
+pip install -r requirements.txt
+jupyter notebook
 ### 📁 File Structure
