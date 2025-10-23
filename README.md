@@ -113,7 +113,7 @@ My 10% accuracy represents a fully functional, scalable ML pipeline that can evo
 >  
 > Merged real FASTA + GO term data, built a TensorFlow model, and optimized with early stopping.  
 >  
-> My final accuracy: **10.02%** — but the learning? **100%.**  
+> My final accuracy: **12.59%** — but the learning? **100%.**  
 >  
 > This project taught me how to merge bioinformatics and machine learning — one amino acid at a time.  
 >  
