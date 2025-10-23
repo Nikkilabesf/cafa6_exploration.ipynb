@@ -91,7 +91,7 @@ My 10% accuracy represents a fully functional, scalable ML pipeline that can evo
 🧾 Sample Output
 ✅ Combined data shape: (537027, 4)
 ✅ Model training complete (150 epochs)
-🧾 FINAL TEST ACCURACY: 10.02%
+🧾 FINAL TEST ACCURACY: 12.59%
 ✅ Results exported to predicted_go_terms.csv
 
 📎 Connect with Me
